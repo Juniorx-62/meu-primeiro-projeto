@@ -11,8 +11,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: url('../imagens/imagem.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
-
+    
 h1 {
     color: #000065;
     font-size: 5rem;
