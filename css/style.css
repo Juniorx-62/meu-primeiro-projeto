@@ -22,6 +22,8 @@ h1 {
     font-size: 5rem;
     text-align: center;
     text-decoration: underline;
+    position: absolute;
+    top: 0;
 }
 
 a {
@@ -31,7 +33,6 @@ a {
     border: 1px solid #ccc;
     padding: .07rem 2rem;
     border-radius: 8px;
-    color: white; /* Define a cor do texto como branco */
 }
 
 a:hover {
